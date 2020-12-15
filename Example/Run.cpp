@@ -11,7 +11,7 @@ static std::vector<std::string> inArray(std::vector<std::string>& array1, std::v
 
 
 int main() {
-    std::cout <<  ;
+    std::cout << 4;
 
     return 0;
 }
